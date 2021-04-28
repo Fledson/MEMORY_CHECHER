@@ -2,7 +2,9 @@
  MEMORY CHECKER 
  </h1>
 
+<p align="center">
  <img src="https://ik.imagekit.io/fledson/MEMORY_CHECKER/memory_EJTMJKuse.gif">
+</p>
 
 Uma aplicação simples que mostra o consumo de memoria ram no console.
 
