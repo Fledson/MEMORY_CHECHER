@@ -1,5 +1,5 @@
-<h1 style="text-align:center">
- MEMORY CHECHER 
+<h1 align="center">
+ MEMORY CHECKER 
  </h1>
 
 Uma aplicação simples que mostra o consumo de memoria ram no console.
@@ -18,6 +18,6 @@ A Aplicação foi feita seguindo o **Masterclass** da **[Rocketseat](https://www
 - [Node.js](https://nodejs.org/en/)
 - [OS Module](https://nodejs.org/dist/latest-v14.x/docs/api/os.html)
 ---
-<p style="text-align:center">
+<p align="center">
 **Made by 👨‍💻 Fledson Henrique**
 </p>
