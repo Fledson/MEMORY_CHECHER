@@ -21,5 +21,5 @@ function returnCurrentDate(){
   }
 
 // exportando função
-module.exports = log; 
-module.exports = returnCurrentDate;
+module.exports = {log, returnCurrentDate};
+// module.exports = ;
