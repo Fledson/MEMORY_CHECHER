@@ -20,7 +20,8 @@ A Aplicação foi feita seguindo o **Masterclass** da **[Rocketseat](https://www
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
-- [OS Module](https://nodejs.org/dist/latest-v14.x/docs/api/os.html)
+- [OS - Module](https://nodejs.org/dist/latest-v14.x/docs/api/os.html)
+- [File system - Module](https://nodejs.org/dist/latest-v14.x/docs/api/fs.html)
 ---
 <p align="center">
 **Made by 👨‍💻 Fledson Henrique**
